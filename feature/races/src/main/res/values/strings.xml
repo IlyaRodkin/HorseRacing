@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="feature_races_title">Races</string>
+    <string name="feature_races_stop_button_race">Stop Race</string>
+    <string name="feature_races_start_button_race">Start Race</string>
+    <string name="feature_races_restart_button_race">Restart Race</string>
+
+</resources>
